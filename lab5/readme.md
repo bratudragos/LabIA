@@ -1,4 +1,5 @@
 Descrierea algoritmului folosit:
+
 Modelul bag-of-words:
 este o metodă de reprezentare a datelor de tip text, bazată pe frecvența de apariție a cuvintelor în cadrul documentelor
 
